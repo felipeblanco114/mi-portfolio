@@ -1,0 +1,22 @@
+.education-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.education-item {
+  margin-bottom: 25px;
+}
+
+.education-item h3 {
+  font-size: 1.3rem;
+  color: var(--primary);
+}
+
+.education-degree {
+  font-weight: 500;
+  margin: 5px 0;
+}
+
+.education-period {
+  color: var(--dark);
+}

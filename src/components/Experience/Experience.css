@@ -1,0 +1,31 @@
+.experience-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.experience-item {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.experience-item:last-child {
+  border-bottom: none;
+}
+
+.experience-item h3 {
+  font-size: 1.5rem;
+  color: var(--primary);
+}
+
+.experience-item h4 {
+  font-size: 1.2rem;
+  color: var(--dark);
+  margin: 5px 0;
+}
+
+.experience-period {
+  font-style: italic;
+  color: var(--dark);
+  margin-bottom: 10px;
+}
