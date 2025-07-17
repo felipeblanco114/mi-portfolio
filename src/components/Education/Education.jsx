@@ -23,7 +23,7 @@ const Education = () => {
     {
       id: 4,
       institution: 'Coderhouse',
-      degree: 'Diseño Web',
+      degree: 'Desarrollos Web',
       period: '2020 - 2020'
     }
   ];
